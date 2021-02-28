@@ -1,0 +1,155 @@
+[
+    {
+      "name": "Abyssal Designator",
+      "damage": 15,
+      "life": 8
+    },
+    {
+      "name": "Abyssal Kingshark",
+      "damage": 12,
+      "life": 20
+    },
+    {
+      "name": "Accel Synchron",
+      "damage": 5,
+      "life": 20
+    },
+    {
+      "name": "Accellight",
+      "damage": 14,
+      "life": 8
+    },
+    {
+      "name": "Acrobat Monkey",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Acidic Downpour",
+      "damage": 12,
+      "life": 9
+    },
+
+    {
+      "name": "Exodia",
+      "damage": 1000,
+      "life": 1000
+    },
+
+    {
+      "name": "Acrobatic Magician",
+      "damage": 11,
+      "life": 9
+    },
+    {
+      "name": "Adamancipator Laputite",
+      "damage": 12,
+      "life": 2
+    },
+    {
+      "name": "ForAdamancipator Resonanced",
+      "damage": 12,
+      "life": 3
+    },
+    {
+      "name": "Alchemic Magician",
+      "damage": 12,
+      "life": 7
+    },
+    {
+      "name": "Alchemist of Black Spells",
+      "damage": 12,
+      "life": 20
+    },
+    {
+      "name": "Alien Dog",
+      "damage": 12,
+      "life": 10
+    },
+    {
+      "name": "Alien Grey",
+      "damage": 12,
+      "life": 18
+    },
+    {
+      "name": "Alien Hunter",
+      "damage": 15,
+      "life": 8
+    },
+    {
+      "name": "Alien Kid",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Alien Hypno",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Alien Mother",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Alien Psychic",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Alien Telepath",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Alien Warrior",
+      "damage": 12,
+      "life": 8
+    },
+{
+      "name": "Alien Skull",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Catastor",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Clausolas",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Core Destroyer",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Cosmic Gateway",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Cycle Reader",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Cyclone Creator",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Decisive Armor",
+      "damage": 12,
+      "life": 8
+    },
+    {
+      "name": "Ally of Justice Enemy Catcher",
+      "damage": 12,
+      "life": 8
+    }
+
+  ]
